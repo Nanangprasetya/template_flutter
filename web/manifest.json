@@ -1,6 +1,6 @@
 {
-    "name": "bloc_v2",
-    "short_name": "bloc_v2",
+    "name": "expedition_app",
+    "short_name": "expedition_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-import 'package:bloc_v2/service/module_service.dart';
+import 'package:expedition_app/service/module_service.dart';
 import 'package:dio/dio.dart';
 import 'package:injectable/injectable.dart';
 

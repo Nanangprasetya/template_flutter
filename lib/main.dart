@@ -1,7 +1,7 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:bloc_v2/bloc/cubit/counter_cubit.dart';
-import 'package:bloc_v2/injection.dart';
-import 'package:bloc_v2/router/app_router.dart';
+import 'package:expedition_app/bloc/cubit/counter_cubit.dart';
+import 'package:expedition_app/injection.dart';
+import 'package:expedition_app/router/app_router.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter/material.dart';
 

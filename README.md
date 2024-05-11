@@ -1,4 +1,4 @@
-# bloc_v2
+# expedition_app
 
 A new Flutter project.
 

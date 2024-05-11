@@ -8,19 +8,19 @@
 // coverage:ignore-file
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:bloc_v2/bloc/cubit/counter_cubit.dart' as _i3;
-import 'package:bloc_v2/core/flavor/flavor_config.dart' as _i4;
-import 'package:bloc_v2/features/users/data/datasources/users_remote_datasource.dart'
+import 'package:expedition_app/bloc/cubit/counter_cubit.dart' as _i3;
+import 'package:expedition_app/core/flavor/flavor_config.dart' as _i4;
+import 'package:expedition_app/features/users/data/datasources/users_remote_datasource.dart'
     as _i6;
-import 'package:bloc_v2/features/users/data/repositories/users_repository_impl.dart'
+import 'package:expedition_app/features/users/data/repositories/users_repository_impl.dart'
     as _i8;
-import 'package:bloc_v2/features/users/domain/repositories/users_repository.dart'
+import 'package:expedition_app/features/users/domain/repositories/users_repository.dart'
     as _i7;
-import 'package:bloc_v2/features/users/domain/usecases/users_get_data.dart'
+import 'package:expedition_app/features/users/domain/usecases/users_get_data.dart'
     as _i9;
-import 'package:bloc_v2/features/users/presentation/cubit/users_cubit.dart'
+import 'package:expedition_app/features/users/presentation/cubit/users_cubit.dart'
     as _i10;
-import 'package:bloc_v2/service/module_service.dart' as _i5;
+import 'package:expedition_app/service/module_service.dart' as _i5;
 import 'package:get_it/get_it.dart' as _i1;
 import 'package:injectable/injectable.dart' as _i2;
 

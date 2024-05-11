@@ -1,5 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:bloc_v2/router/app_router.dart';
+import 'package:expedition_app/router/app_router.dart';
 import 'package:flutter/material.dart';
 
 @RoutePage()

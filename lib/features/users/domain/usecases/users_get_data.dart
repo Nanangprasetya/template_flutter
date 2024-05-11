@@ -1,5 +1,5 @@
-import 'package:bloc_v2/core/usecase/usecase.dart';
-import 'package:bloc_v2/features/users/domain/repositories/users_repository.dart';
+import 'package:expedition_app/core/usecase/usecase.dart';
+import 'package:expedition_app/features/users/domain/repositories/users_repository.dart';
 import 'package:dartz/dartz.dart';
 import 'package:injectable/injectable.dart';
 

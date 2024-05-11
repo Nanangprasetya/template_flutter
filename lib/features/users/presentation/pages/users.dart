@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:bloc_v2/features/users/presentation/cubit/users_cubit.dart';
-import 'package:bloc_v2/injection.dart';
+import 'package:expedition_app/features/users/presentation/cubit/users_cubit.dart';
+import 'package:expedition_app/injection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

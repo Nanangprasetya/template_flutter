@@ -1,6 +1,6 @@
-import 'package:bloc_v2/bootstrap.dart';
-import 'package:bloc_v2/core/flavor/flavor_config.dart';
-import 'package:bloc_v2/main.dart';
+import 'package:expedition_app/bootstrap.dart';
+import 'package:expedition_app/core/flavor/flavor_config.dart';
+import 'package:expedition_app/main.dart';
 
 void main() {
   bootstrap(

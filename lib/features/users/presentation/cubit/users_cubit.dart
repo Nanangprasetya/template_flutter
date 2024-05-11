@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:bloc_presentation/bloc_presentation.dart';
-import 'package:bloc_v2/core/usecase/usecase.dart';
-import 'package:bloc_v2/features/users/domain/usecases/users_get_data.dart';
+import 'package:expedition_app/core/usecase/usecase.dart';
+import 'package:expedition_app/features/users/domain/usecases/users_get_data.dart';
 import 'package:dartz/dartz.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';

@@ -1,9 +1,9 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:bloc_v2/features/users/presentation/pages/users.dart';
-import 'package:bloc_v2/ui/detail_page.dart';
-import 'package:bloc_v2/main.dart';
-import 'package:bloc_v2/ui/one_tab.dart';
-import 'package:bloc_v2/ui/two_tab.dart';
+import 'package:expedition_app/features/users/presentation/pages/users.dart';
+import 'package:expedition_app/ui/detail_page.dart';
+import 'package:expedition_app/main.dart';
+import 'package:expedition_app/ui/one_tab.dart';
+import 'package:expedition_app/ui/two_tab.dart';
 
 part 'app_router.gr.dart';
 

@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:developer';
 
-import 'package:bloc_v2/core/flavor/flavor_config.dart';
-import 'package:bloc_v2/injection.dart';
+import 'package:expedition_app/core/flavor/flavor_config.dart';
+import 'package:expedition_app/injection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
