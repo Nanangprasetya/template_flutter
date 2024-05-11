@@ -1,9 +1,8 @@
 import 'package:injectable/injectable.dart';
 
-@injectable
 enum Env { prod, dev, stag }
 
-@injectable
+@named
 class FlavorConfig {
   final Env? env;
   final String? name;
@@ -11,7 +10,6 @@ class FlavorConfig {
 
   static FlavorConfig? _instance;
 
-  @factoryMethod
   factory FlavorConfig.init({required Env? env, required EnvValues? values}) {
     _instance ??= FlavorConfig._internal(
       env: env,
@@ -32,7 +30,6 @@ class FlavorConfig {
   static bool get isStaging => _instance!.env == Env.stag;
 }
 
-@injectable
 class EnvValues {
   final String? baseApi;
   final String? authToken;

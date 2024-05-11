@@ -10,7 +10,7 @@ void main() {
         appName: 'Bloc v2',
         apiVersion: '1.0.0',
         debug: false,
-        baseApi: 'https://jsonplaceholder.typicode.com',
+        baseApi: 'https://reqres.in/api/',
         delay: const Duration(seconds: 0),
         printResponse: false,
       ),

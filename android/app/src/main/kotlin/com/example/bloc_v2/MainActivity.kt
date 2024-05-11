@@ -1,4 +1,4 @@
-package com.example.expedition_app
+package com.panemu.expedition_app
 
 import io.flutter.embedding.android.FlutterActivity
 

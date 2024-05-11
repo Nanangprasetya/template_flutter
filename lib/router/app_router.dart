@@ -21,7 +21,7 @@ class AppRouter extends _$AppRouter {
       ]
     ),
     AutoRoute(path: '/users', page: UsersPageRoute.page),
-    AutoRoute(path: '/', page: MyHomePageRoute.page),
+    AutoRoute(path: '/', page: MyHomePageRoute.page, initial: true),
     RedirectRoute(path: '*', redirectTo: '/'),
   ];
 }
